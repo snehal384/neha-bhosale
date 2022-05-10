@@ -1,0 +1,30 @@
+#implimenting input for printing function
+print("hello world")
+#implimenting function of string
+str1=("my")
+print(str1)
+str2=("captain")
+print(str2)
+print(str1+str2)
+#all list
+flowers=["rose","lotus","mogara"]
+print(flowers)
+flowers.appened("lily")
+print(flowers)
+car=["swift","kreta","rollsroyce"]
+flowers.extend(car)
+print(flowers)
+flowers.index("lotus")
+flowers.sort()
+x=flowers.copy()
+print(x)
+flowers.clear()
+print(flowers)
+
+
+
+
+
+
+
+
